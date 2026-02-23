@@ -23,9 +23,9 @@
       "name": "Alfred",
       "emoji": "\ud83c\udfa9",
       "status": "active",
-      "current_equity": 9993.26,
+      "current_equity": 9991.16,
       "starting_capital": 10000,
-      "total_trades": 6,
+      "total_trades": 8,
       "winning_trades": 3,
       "best_trade_pct": 0.51,
       "worst_trade_pct": -0.946,
@@ -469,18 +469,34 @@
         {
           "time": "2026-02-23T22:54:38.357633+00:00",
           "value": 9993.26
+        },
+        {
+          "time": "2026-02-23T22:55:54.782528+00:00",
+          "value": 9991.16
+        },
+        {
+          "time": "2026-02-23T22:57:11.487080+00:00",
+          "value": 9991.16
+        },
+        {
+          "time": "2026-02-23T22:58:28.258568+00:00",
+          "value": 9991.16
+        },
+        {
+          "time": "2026-02-23T22:59:45.470998+00:00",
+          "value": 9991.16
         }
       ],
       "asset_breakdown": {
         "ARB": {
-          "trades": 2,
+          "trades": 3,
           "pnl": 0,
-          "pnl_pct": 0.321
+          "pnl_pct": -0.10499999999999998
         },
         "NEAR": {
-          "trades": 2,
+          "trades": 3,
           "pnl": 0,
-          "pnl_pct": -0.10399999999999998
+          "pnl_pct": -0.611
         },
         "AVAX": {
           "trades": 1,
@@ -547,6 +563,24 @@
           "pnl_pct": 0.51,
           "entry_price": 0.98,
           "exit_price": 0.985
+        },
+        {
+          "time": "2026-02-23T22:55:54.782528+00:00",
+          "asset": "NEAR",
+          "side": "long",
+          "pnl": -4.6,
+          "pnl_pct": -0.507,
+          "entry_price": 0.986,
+          "exit_price": 0.981
+        },
+        {
+          "time": "2026-02-23T22:55:54.782528+00:00",
+          "asset": "ARB",
+          "side": "long",
+          "pnl": -3.87,
+          "pnl_pct": -0.426,
+          "entry_price": 0.0938,
+          "exit_price": 0.0934
         }
       ]
     },
