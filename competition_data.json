@@ -1,0 +1,159 @@
+{
+  "competition": {
+    "name": "Mi AI Crypto Trading Competition",
+    "start_time": "2026-02-23T20:38:00Z",
+    "duration_hours": 72,
+    "starting_capital": 10000,
+    "assets": [
+      "POL",
+      "NEAR",
+      "BTC",
+      "SOL",
+      "XRP",
+      "ARB",
+      "LINK",
+      "DOT",
+      "ETH",
+      "AVAX",
+      "ALGO"
+    ]
+  },
+  "bots": {
+    "alfred": {
+      "name": "Alfred",
+      "emoji": "\ud83c\udfa9",
+      "status": "active",
+      "current_equity": 10000.0,
+      "starting_capital": 10000,
+      "total_trades": 0,
+      "winning_trades": 0,
+      "best_trade_pct": null,
+      "worst_trade_pct": null,
+      "equity_curve": [
+        {
+          "time": "2026-02-23T20:38:00Z",
+          "value": 10000
+        },
+        {
+          "time": "2026-02-23T20:40:44.171036+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:41:31.235236+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:42:18.431730+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:43:05.351412+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:43:52.160474+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:44:38.673409+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:45:25.791178+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:45:42.159170+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:46:44.472032+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:48:01.825300+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:49:18.641360+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:50:30.412938+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:51:47.123558+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:53:04.006719+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:54:21.058662+00:00",
+          "value": 10000.0
+        }
+      ],
+      "asset_breakdown": {},
+      "trade_log": []
+    },
+    "tars": {
+      "name": "TARS",
+      "emoji": "\ud83e\udd16",
+      "status": "awaiting",
+      "current_equity": 10000,
+      "starting_capital": 10000,
+      "total_trades": 0,
+      "winning_trades": 0,
+      "best_trade_pct": null,
+      "worst_trade_pct": null,
+      "equity_curve": [
+        {
+          "time": "2026-02-23T20:38:00Z",
+          "value": 10000
+        }
+      ],
+      "asset_breakdown": {},
+      "trade_log": []
+    },
+    "vex": {
+      "name": "Vex",
+      "emoji": "\u26a1",
+      "status": "awaiting",
+      "current_equity": 10000,
+      "starting_capital": 10000,
+      "total_trades": 0,
+      "winning_trades": 0,
+      "best_trade_pct": null,
+      "worst_trade_pct": null,
+      "equity_curve": [
+        {
+          "time": "2026-02-23T20:38:00Z",
+          "value": 10000
+        }
+      ],
+      "asset_breakdown": {},
+      "trade_log": []
+    },
+    "eddie_v": {
+      "name": "Eddie V",
+      "emoji": "\ud83d\udc7b",
+      "status": "awaiting",
+      "current_equity": 10000,
+      "starting_capital": 10000,
+      "total_trades": 0,
+      "winning_trades": 0,
+      "best_trade_pct": null,
+      "worst_trade_pct": null,
+      "equity_curve": [
+        {
+          "time": "2026-02-23T20:38:00Z",
+          "value": 10000
+        }
+      ],
+      "asset_breakdown": {},
+      "trade_log": []
+    }
+  }
+}
