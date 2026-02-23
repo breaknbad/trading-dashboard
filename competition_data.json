@@ -23,7 +23,7 @@
       "name": "Alfred",
       "emoji": "\ud83c\udfa9",
       "status": "active",
-      "current_equity": 10000.0,
+      "current_equity": 9999.07,
       "starting_capital": 10000,
       "total_trades": 0,
       "winning_trades": 0,
@@ -93,6 +93,22 @@
         {
           "time": "2026-02-23T20:54:21.058662+00:00",
           "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:55:38.268300+00:00",
+          "value": 10000.0
+        },
+        {
+          "time": "2026-02-23T20:56:55.253046+00:00",
+          "value": 9999.07
+        },
+        {
+          "time": "2026-02-23T20:58:11.807466+00:00",
+          "value": 9999.07
+        },
+        {
+          "time": "2026-02-23T20:59:28.190917+00:00",
+          "value": 9999.07
         }
       ],
       "asset_breakdown": {},
