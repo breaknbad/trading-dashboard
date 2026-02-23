@@ -23,12 +23,12 @@
       "name": "Alfred",
       "emoji": "\ud83c\udfa9",
       "status": "active",
-      "current_equity": 9996.82,
+      "current_equity": 9997.31,
       "starting_capital": 10000,
-      "total_trades": 0,
-      "winning_trades": 0,
-      "best_trade_pct": null,
-      "worst_trade_pct": null,
+      "total_trades": 1,
+      "winning_trades": 1,
+      "best_trade_pct": 0.214,
+      "worst_trade_pct": 0.214,
       "equity_curve": [
         {
           "time": "2026-02-23T20:38:00Z",
@@ -141,10 +141,42 @@
         {
           "time": "2026-02-23T21:09:21.700515+00:00",
           "value": 9996.82
+        },
+        {
+          "time": "2026-02-23T21:10:22.359863+00:00",
+          "value": 9996.82
+        },
+        {
+          "time": "2026-02-23T21:11:39.862870+00:00",
+          "value": 9996.82
+        },
+        {
+          "time": "2026-02-23T21:12:56.657552+00:00",
+          "value": 9997.31
+        },
+        {
+          "time": "2026-02-23T21:14:13.223924+00:00",
+          "value": 9997.31
         }
       ],
-      "asset_breakdown": {},
-      "trade_log": []
+      "asset_breakdown": {
+        "ARB": {
+          "trades": 1,
+          "pnl": 0,
+          "pnl_pct": 0.214
+        }
+      },
+      "trade_log": [
+        {
+          "time": "2026-02-23T21:12:56.657552+00:00",
+          "asset": "ARB",
+          "side": "long",
+          "pnl": 1.95,
+          "pnl_pct": 0.214,
+          "entry_price": 0.0935,
+          "exit_price": 0.0937
+        }
+      ]
     },
     "tars": {
       "name": "TARS",
